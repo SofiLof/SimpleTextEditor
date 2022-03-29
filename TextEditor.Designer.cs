@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp4
+﻿namespace SimpleTextEditor
 {
     partial class TextEditor
     {
